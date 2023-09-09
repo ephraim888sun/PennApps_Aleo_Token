@@ -1,6 +1,6 @@
 // The program input for token_15663/src/main.leo
 [mint]
-balance: u32 = 100u32;
+balance: u32 = 1000u32;
 
 [transfer]
 receiver: address = aleo1yn6halw6astkc8jsl88sukelef3e8xrawugfjtx7kjcuuxdm6spsdtc249;
